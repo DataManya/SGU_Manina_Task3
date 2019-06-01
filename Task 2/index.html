@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form class="form" onsubmit="return false">
+        <h1>Написать функцию для подсчёта результата выражения. На вход приходит строка с
+            арифметическим выражением. Внутри выражения записываются вещественные числа (в качестве
+            разделителя целой и дробной части используется точка), разделённые
+            математическими
+            операторами (+ − * /). Между числом и оператором может стоять пробел. В к
+            онце строки стоит знак «равно»</h1>
+
+            <p>Введите выражение для вычисления</p>
+            <input type="text" id="input">
+            <p>Результат</p>
+            <input type="text" id="output">
+            <p><button type="submit" onclick="formSubmit()">Получить результат</button></p>
+        </form>
+
+    <script src="script.js"></script>
+</body>
+</html>

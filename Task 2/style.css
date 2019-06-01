@@ -1,0 +1,12 @@
+.form{
+    background: linear-gradient(rgb(130, 226, 202), rgb(44, 121, 104));
+    border: 5px solid rgb(0, 0, 0);
+    padding: 30px;
+    width: 93%;
+    font-weight: 1000;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+input{
+    width: 100%;
+}
