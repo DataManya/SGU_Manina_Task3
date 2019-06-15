@@ -1,0 +1,38 @@
+.left-side, .right-side{
+    display: inline-block;
+    padding: 50px;
+    margin: auto;
+    height: 300px;
+    vertical-align: top;
+    text-align: center;
+    width: 100px;
+    margin: 10px;
+}
+
+.buttons{
+    display: inline-block;
+    margin-top: 150px;
+}
+
+button
+{
+    display: list-item;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.select
+{
+    width: 100px;
+    border: solid 0 black;
+}
+
+label
+{
+    display: block;
+}
+
+.item
+{
+    margin-bottom: 10px;
+}
