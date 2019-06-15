@@ -1,0 +1,26 @@
+.button{
+    display: inline-block;
+}
+
+body
+{
+    height:850px;  
+    background-image:url("river.jpg");
+    background-repeat:no-repeat;
+  background-position: top left;
+}
+
+h1
+{
+    color: rgb(207, 231, 162);
+}
+
+.repeat
+{
+    color: rgb(153, 10, 53);
+}
+
+.time
+{
+    color: rgb(153, 10, 53);
+}
